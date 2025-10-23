@@ -50,3 +50,58 @@ Bir anlamda, ağ iletişiminin “ortak dili”dir.
 - **TCP/IP:** İnternetin temel iletişim protokolü  
 
 ---
+## 🧩 Katmanlı Ağ Mimarisi
+
+Veri iletişimi, bir dizi **katman** üzerinden gerçekleşir. Her katman belirli bir görevi üstlenir.
+
+### 📊 OSI Modeli (Open Systems Interconnection)
+1. **Fiziksel Katman:** Donanım, kablolar, voltajlar.  
+2. **Veri Bağlantı Katmanı:** MAC adresleri, çerçeveleme, hata denetimi.  
+3. **Ağ Katmanı:** IP adresleme, yönlendirme.  
+4. **Taşıma Katmanı:** Uçtan uca veri iletimi (TCP, UDP).  
+5. **Oturum Katmanı:** İletişim oturumlarını yönetir.  
+6. **Sunum Katmanı:** Veriyi uygun formata dönüştürür (şifreleme, sıkıştırma).  
+7. **Uygulama Katmanı:** Kullanıcıya en yakın katman (HTTP, FTP, SMTP).
+
+### 🌐 TCP/IP Modeli
+| Katman | Örnek Protokoller |
+|--------|------------------|
+| **Uygulama Katmanı** | HTTP, FTP, SMTP |
+| **Taşıma Katmanı** | TCP, UDP |
+| **İnternet Katmanı** | IP, ICMP |
+| **Ağ Erişim Katmanı** | Ethernet, Wi-Fi |
+
+> 🧠 **Not:** OSI modeli teoriktir, TCP/IP modeli ise pratikte kullanılır.
+
+---
+
+## 🔍 Ağ Performansını Etkileyen Faktörler
+
+- **Bant genişliği (Bandwidth)**  
+- **Gecikme (Latency)**  
+- **Paket kaybı (Packet Loss)**  
+- **Ağ yoğunluğu (Congestion)**  
+- **Kanal kalitesi (Noise, interference)**  
+
+---
+
+## 📘 Özet
+
+- Bilgisayar ağları, bilgi paylaşımı için cihazların birbirine bağlanmasıdır.  
+- Ağ türleri: PAN, LAN, MAN, WAN.  
+- Temel bileşenler: istemci, sunucu, ağ cihazları, protokoller.  
+- Katmanlı yapı, veri iletişimini düzenler (OSI ve TCP/IP modelleri).  
+
+---
+
+## 🧠 Mini Alıştırmalar
+
+1. LAN ve WAN arasındaki fark nedir?  
+2. Aşağıdaki cihazlardan hangisi “ağlar arası yönlendirme” yapar?  
+   - a) Switch  
+   - b) Router  
+   - c) Modem  
+3. TCP/IP modelinde “veri iletim güvenliğinden” hangi katman sorumludur?
+
+---
+
