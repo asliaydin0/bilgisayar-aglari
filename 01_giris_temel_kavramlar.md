@@ -38,3 +38,15 @@ Bir ofisteki bilgisayarların aynı yazıcıyı paylaşabilmesi veya dosya aktar
 5. **Protokoller:** Verinin nasıl iletileceğini belirleyen kurallar bütünü (örnek: TCP/IP, HTTP, FTP).
 
 ---
+## 🔑 Protokol Kavramı
+
+**Protokol**, ağ üzerindeki iki cihazın nasıl iletişim kuracağını tanımlayan standartlardır.  
+Bir anlamda, ağ iletişiminin “ortak dili”dir.
+
+**Örnek:**  
+- **HTTP:** Web sayfalarının aktarımı  
+- **FTP:** Dosya aktarımı  
+- **SMTP:** E-posta gönderimi  
+- **TCP/IP:** İnternetin temel iletişim protokolü  
+
+---
