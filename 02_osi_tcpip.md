@@ -19,7 +19,7 @@ Her katman belirli bir görevi yerine getirir ve yalnızca alt ve üst katmanla 
 OSI modeli, ISO tarafından geliştirilen ve **7 katmandan oluşan teorik bir referans modelidir.**  
 Her katman belirli bir işlevi üstlenir.
 
-![OSI Katman Modeli Diyagramı](https://upload.wikimedia.org/wikipedia/commons/d/dd/OSI_Model_v1.svg)
+![OSI Katman Modeli Diyagramı](https://commons.wikimedia.org/wiki/File%3AOSI_Model_v1.svg?utm_source)
 > Görsel: OSI modelinin 7 katmanlı yapısını göstermektedir.
 
 ### 🔸 1. Fiziksel Katman (Physical Layer)
@@ -72,7 +72,7 @@ TCP/IP modeli, OSI modelinin pratikte kullanılan halidir.
 Gerçek ağlarda veri iletişimi genellikle bu model üzerinden gerçekleşir.  
 Toplam **4 katmandan** oluşur.
 
-![TCP/IP Katman Modeli Diyagramı](https://upload.wikimedia.org/wikipedia/commons/3/3b/TCP-IP_Model_-_en.svg)
+![TCP/IP Katman Modeli Diyagramı](https://upload.wikimedia.org/wikipedia/commons/e/e5/TCP-IP_Model_-_en.png)
 > Görsel: TCP/IP modelinin 4 katmanlı yapısını göstermektedir.
 
 | TCP/IP Katmanı | OSI Katmanına Karşılığı | Örnek Protokoller |
@@ -105,7 +105,7 @@ Toplam **4 katmandan** oluşur.
 Veri, gönderici tarafta **üstten alta** doğru her katmanda bir başlık eklenerek iletilir.  
 Alıcı tarafta ise bu başlıklar **alttan üste** doğru çözülür.
 
-![Encapsulation Diyagramı](https://upload.wikimedia.org/wikipedia/commons/4/4f/UDP_encapsulation.svg)
+![Encapsulation Diyagramı](https://commons.wikimedia.org/wiki/File%3ATCP-IP_OSI_comparison_table.jpg?utm_source)
 > Görsel: Veri kapsülleme süreci (encapsulation) — her katman, bir üst katmandan gelen veriye kendi başlığını ekler.
 
 **Süreç:**  
