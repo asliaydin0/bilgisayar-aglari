@@ -18,7 +18,7 @@ Notlar, her hafta bir konuyu kapsayacak şekilde düzenlenmiş ve hem teorik hem
 |---|-----------------------------|---------|
 | 01 | [Giriş & Temel Kavramlar](./01_giris_temel_kavramlar.md) | ✅ Yayında |
 | 02 | [OSI ve TCP/IP Modelleri](./02_osi_tcpip.md) | ✅ Yayında |
-| 03 | Fiziksel Katman | ⏳ Planlandı |
+| 03 | Fiziksel Katman | ⏳ Hazırlanıyor |
 | 04 | Veri Bağlantı Katmanı | 🔒 Planlandı |
 | 05 | Ağ Katmanı (IP, Subnet) | 🔒 Planlandı |
 | 06 | Yönlendirme & Routerlar | 🔒 Planlandı |
