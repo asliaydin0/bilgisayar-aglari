@@ -16,7 +16,7 @@ Notlar, her hafta bir konuyu kapsayacak şekilde düzenlenmiş ve hem teorik hem
 
 | # | Konu Başlığı | Durum |
 |---|-----------------------------|---------|
-| 01 | [Giriş & Temel Kavramlar](./01_giris_temel_kavramlar) | ✅ Yayında |
+| 01 | [Giriş & Temel Kavramlar](./01_giris_temel_kavramlar.md) | ✅ Yayında |
 | 02 | OSI ve TCP/IP Modelleri | ⏳ Hazırlanıyor |
 | 03 | Fiziksel Katman | ⏳ Planlandı |
 | 04 | Veri Bağlantı Katmanı | 🔒 Planlandı |
