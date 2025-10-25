@@ -19,7 +19,7 @@ Her katman belirli bir görevi yerine getirir ve yalnızca alt ve üst katmanla 
 OSI modeli, ISO tarafından geliştirilen ve **7 katmandan oluşan teorik bir referans modelidir.**  
 Her katman belirli bir işlevi üstlenir.
 
-![OSI Katman Modeli Diyagramı](https://commons.wikimedia.org/wiki/File%3AOSI_Model_v1.svg?utm_source)
+![OSI Katman Modeli Diyagramı](https://upload.wikimedia.org/wikipedia/commons/8/8d/OSI_Model_v1.svg)
 > Görsel: OSI modelinin 7 katmanlı yapısını göstermektedir.
 
 ### 🔸 1. Fiziksel Katman (Physical Layer)
@@ -105,7 +105,7 @@ Toplam **4 katmandan** oluşur.
 Veri, gönderici tarafta **üstten alta** doğru her katmanda bir başlık eklenerek iletilir.  
 Alıcı tarafta ise bu başlıklar **alttan üste** doğru çözülür.
 
-![Encapsulation Diyagramı](https://commons.wikimedia.org/wiki/File%3ATCP-IP_OSI_comparison_table.jpg?utm_source)
+![Encapsulation Diyagramı](https://upload.wikimedia.org/wikipedia/commons/5/53/TCP-IP_OSI_comparison_table.jpg)
 > Görsel: Veri kapsülleme süreci (encapsulation) — her katman, bir üst katmandan gelen veriye kendi başlığını ekler.
 
 **Süreç:**  
