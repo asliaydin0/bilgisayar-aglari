@@ -94,14 +94,5 @@ Veri iletişimi, bir dizi **katman** üzerinden gerçekleşir. Her katman belirl
 
 ---
 
-## 🧠 Mini Alıştırmalar
 
-1. LAN ve WAN arasındaki fark nedir?  
-2. Aşağıdaki cihazlardan hangisi “ağlar arası yönlendirme” yapar?  
-   - a) Switch  
-   - b) Router  
-   - c) Modem  
-3. TCP/IP modelinde “veri iletim güvenliğinden” hangi katman sorumludur?
-
----
 
