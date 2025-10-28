@@ -119,17 +119,6 @@ Alıcı tarafta ise bu başlıklar **alttan üste** doğru çözülür.
 
 ---
 
-## 🧠 Mini Alıştırmalar
-
-1. OSI modelinde yönlendirme hangi katmanda yapılır?  
-2. TCP/IP modelinde IP protokolü hangi katmanda bulunur?  
-3. Aşağıdaki cihazlardan hangisi **veri bağlantı katmanında** çalışır?  
-   - a) Router  
-   - b) Switch  
-   - c) Modem  
-4. “Encapsulation” kavramı neyi ifade eder?
-
----
 
 ## 📘 Özet
 
