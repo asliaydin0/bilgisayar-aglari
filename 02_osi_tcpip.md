@@ -120,9 +120,4 @@ Alıcı tarafta ise bu başlıklar **alttan üste** doğru çözülür.
 ---
 
 
-## 📘 Özet
 
-- OSI modeli 7, TCP/IP modeli 4 katmandan oluşur.  
-- OSI modeli teorik, TCP/IP modeli pratik bir yapıdır.  
-- Veri katmanlar arasında başlıklar eklenerek iletilir (Encapsulation).  
-- Her katman belirli bir göreve sahiptir ve alt/üst katmanla iletişim kurar.
