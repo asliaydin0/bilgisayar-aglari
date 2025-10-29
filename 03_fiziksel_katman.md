@@ -93,17 +93,5 @@ Fiziksel katmanda iletim üç temel ortam üzerinden yapılır:
 | **Manchester** | Her bit ortasında seviye değişimi olur (senkron kolay). | ![Manchester Kodlama](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Manchester_encoding_both_conventions.svg/640px-Manchester_encoding_both_conventions.svg.png) |
 | **NRZI** | 1 için geçiş yapılır, 0 için seviye korunur. | ![NRZI Kodlama](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/NRZI_encoding.svg/640px-NRZI_encoding.svg.png) |
 
----
-
-## 💡 Örnek: Ethernet Fiziksel Katman
-
-- 10BASE-T, 100BASE-TX, 1000BASE-T gibi standartlar fiziksel katmanda tanımlanır.  
-- “BASE” ifadesi **baseband iletim** anlamına gelir.  
-- Sayılar veri hızını belirtir:
-  - **10BASE-T → 10 Mbps**
-  - **100BASE-TX → 100 Mbps**
-  - **1000BASE-T → 1 Gbps**
-
----
 
 
