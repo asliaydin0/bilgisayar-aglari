@@ -101,3 +101,20 @@ Gelen çerçevenin **hedef MAC adresine** bakarak veriyi yalnızca o cihaza yön
 | **ARP (Address Resolution Protocol)** | IP adresini MAC adresine çevirir. |
 
 ---
+
+## 🔹 Veri Bağlantı Katmanında Yaşanan Sorunlar
+
+- Çerçeve çakışmaları (collision)  
+- Hatalı veri iletimi  
+- MAC adres çakışması  
+- Parazit kaynaklı veri kayıpları  
+
+---
+
+## 📘 Özet
+
+- Veri bağlantı katmanı, **çerçeveleme, hata tespiti, adresleme** işlemlerinden sorumludur.  
+- MAC ve LLC olmak üzere iki alt katmandan oluşur.  
+- CSMA/CD ve CSMA/CA yöntemleri ortam erişim kontrolü sağlar.  
+- Switch cihazları bu katmanda çalışır.  
+- En bilinen standartlar: Ethernet, Wi-Fi, PPP, ARP.
