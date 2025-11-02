@@ -23,3 +23,14 @@ Veri bağlantı katmanında veriler **çerçeve (frame)** adı verilen birimlerl
 | **Son (Trailer)** | Hata kontrol bilgisi (CRC) |
 
 ---
+
+## 🔹 Veri Bağlantı Katmanının Alt Katmanları
+
+| Alt Katman | Açıklama |
+|:--|:--|
+| **LLC (Logical Link Control)** | Üst katmanlarla iletişimi sağlar. Protokol türünü belirtir (ör. IPv4, ARP). |
+| **MAC (Media Access Control)** | Donanımsal adresleme (MAC adresi) ve ortam erişim kontrolünü yapar. |
+
+> 💡 MAC adresi, her ağ kartına (NIC) üretici tarafından atanmış **48 bitlik benzersiz bir kimliktir.**
+
+---
