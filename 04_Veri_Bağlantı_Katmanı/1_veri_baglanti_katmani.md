@@ -61,3 +61,19 @@ Bunun için kullanılan başlıca yöntemler:
 > 🧩 Hatalı veri tespit edilirse “ARQ (Automatic Repeat Request)” mekanizmasıyla yeniden gönderim yapılır.
 
 ---
+
+## 🔹 Erişim Kontrolü (Media Access Control)
+
+Bu katman, aynı iletim ortamını paylaşan cihazların **çakışmadan veri göndermesini** sağlar.  
+Kullanılan bazı erişim yöntemleri:
+
+| Yöntem | Açıklama |
+|:--|:--|
+| **CSMA/CD (Carrier Sense Multiple Access / Collision Detection)** | Ethernet’te kullanılır. Gönderim öncesi ortam dinlenir; çakışma olursa veri yeniden gönderilir. |
+| **CSMA/CA (Collision Avoidance)** | Kablosuz ağlarda kullanılır. Çakışma olmadan veri gönderimi amaçlanır. |
+| **Token Passing** | Belirli bir “jeton” (token) cihazdan cihaza geçer; sadece jetona sahip cihaz veri gönderir. |
+
+![CSMA/CD ve CSMA/CA](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CSMA-CD_vs_CSMA-CA.svg/640px-CSMA-CD_vs_CSMA-CA.svg.png)
+> Görsel: Ethernet ve Wi-Fi ortam erişim yöntemleri farkı
+
+---
