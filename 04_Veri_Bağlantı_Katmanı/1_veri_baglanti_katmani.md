@@ -46,3 +46,18 @@ Veri bağlantı katmanında veriler **çerçeve (frame)** adı verilen birimlerl
 > Görsel: MAC adresi yapısı
 
 ---
+
+## 🔹 Hata Tespiti ve Düzeltme
+
+Veri bağlantı katmanı, **hatalı iletilen verileri tespit eder** ve gerekirse yeniden gönderilmesini sağlar.  
+Bunun için kullanılan başlıca yöntemler:
+
+| Yöntem | Açıklama |
+|:--|:--|
+| **Parity Bit** | Basit hata tespiti yöntemi, tek veya çift sayıda 1 biti kontrol edilir. |
+| **Checksum** | Verinin toplam değeri gönderilir, alıcıda yeniden hesaplanır. |
+| **CRC (Cyclic Redundancy Check)** | En güvenilir hata tespit yöntemidir. Ethernet çerçevelerinde kullanılır. |
+
+> 🧩 Hatalı veri tespit edilirse “ARQ (Automatic Repeat Request)” mekanizmasıyla yeniden gönderim yapılır.
+
+---
