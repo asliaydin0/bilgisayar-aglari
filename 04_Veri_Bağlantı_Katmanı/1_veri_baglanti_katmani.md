@@ -77,3 +77,27 @@ Kullanılan bazı erişim yöntemleri:
 > Görsel: Ethernet ve Wi-Fi ortam erişim yöntemleri farkı
 
 ---
+
+## 🔹 Anahtar (Switch) Çalışma Mantığı
+
+Switch, **veri bağlantı katmanında çalışan** bir ağ cihazıdır.  
+Gelen çerçevenin **hedef MAC adresine** bakarak veriyi yalnızca o cihaza yönlendirir.
+
+- **Hub**: Veriyi herkese gönderir (katman 1)
+- **Switch**: Veriyi hedefe yönlendirir (katman 2)
+
+> 💡 Switch, zamanla bağlı cihazların MAC adreslerini bir “MAC adres tablosu”nda saklar.
+
+---
+
+## 🔹 Protokoller ve Standartlar
+
+| Protokol / Standart | Açıklama |
+|:--|:--|
+| **Ethernet (IEEE 802.3)** | En yaygın kablolu ağ standardı. |
+| **Wi-Fi (IEEE 802.11)** | Kablosuz ağ standardı. |
+| **PPP (Point-to-Point Protocol)** | Noktadan noktaya bağlantılarda kullanılır. |
+| **HDLC** | Senkron veri bağlantısı için kullanılır (genellikle WAN bağlantılarında). |
+| **ARP (Address Resolution Protocol)** | IP adresini MAC adresine çevirir. |
+
+---
