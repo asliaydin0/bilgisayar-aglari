@@ -34,3 +34,15 @@ Veri bağlantı katmanında veriler **çerçeve (frame)** adı verilen birimlerl
 > 💡 MAC adresi, her ağ kartına (NIC) üretici tarafından atanmış **48 bitlik benzersiz bir kimliktir.**
 
 ---
+
+## 🔹 Adresleme: MAC Adresi
+
+- MAC (Media Access Control) adresi 48 bit uzunluğundadır ve genellikle 6 çiftlik onaltılık (hexadecimal) biçimde gösterilir.  
+  **Örnek:** `00:1A:92:3F:B2:10`
+
+- İlk 24 bit üretici kimliğini, son 24 bit ise cihazın seri numarasını belirtir.
+
+![MAC Adresi Yapısı](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MAC_address_structure.svg/640px-MAC_address_structure.svg.png)
+> Görsel: MAC adresi yapısı
+
+---
