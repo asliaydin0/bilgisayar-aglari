@@ -84,3 +84,18 @@ Ağ Katmanı paketlerin hedefe **hangi yoldan gideceğini belirler**.
 | **NAT** | Özel IP → Genel IP dönüşümü yapar. |
 
 ---
+
+## 📐 5. Subnetting (Alt Ağlara Bölme)
+
+Subnetting, büyük bir IP bloğunu daha küçük parçalara ayırma işlemidir.
+
+**Amaçları:**
+- Ağ yönetimini kolaylaştırır  
+- Trafiği azaltır  
+- Güvenliği artırır  
+
+**Örnek:**
+`192.168.1.0/24` → tek bir ağdır  
+`/26` yaparsak 4 alt ağı olur.
+
+---
