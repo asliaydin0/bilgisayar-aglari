@@ -99,3 +99,19 @@ Subnetting, büyük bir IP bloğunu daha küçük parçalara ayırma işlemidir.
 `/26` yaparsak 4 alt ağı olur.
 
 ---
+
+## 🔍 6. MTU ve Fragmentation
+
+- MTU: Bir ağ bağlantısında taşınabilecek **en büyük paket boyutu**  
+- Eğer paket çok büyükse **fragmentation** yapılır.  
+- IPv6’da fragmentation router tarafından değil, kaynak cihaz tarafından yapılır.
+
+---
+
+## 📌 Özet
+
+- Ağ katmanı, **IP adresleme ve yönlendirme** işlevlerini üstlenir.  
+- Router cihazları bu katmanda çalışır.  
+- IPv4 ve IPv6 farklı adresleme standartlarıdır.  
+- Routing statik veya dinamik olabilir.  
+- ICMP, NAT, ARP gibi protokoller bu katmanda görev alır.
