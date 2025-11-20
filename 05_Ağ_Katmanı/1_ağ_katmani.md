@@ -55,3 +55,21 @@ Ağ Katmanı aşağıdaki temel işlevleri yerine getirir:
 - Otomatik adres yapılandırma (SLAAC)  
 
 ---
+
+## 🔄 3. Yönlendirme (Routing)
+
+Ağ Katmanı paketlerin hedefe **hangi yoldan gideceğini belirler**.
+
+### **Statik Routing**
+- Yönlendiriciye manuel olarak yol girilir.
+- Küçük ağlarda kullanılır.
+
+### **Dinamik Routing**
+- Routerlar birbirleriyle bilgi paylaşarak yolları otomatik öğrenir.  
+- Protokoller:
+  - **RIP**
+  - **OSPF**
+  - **EIGRP**
+  - **BGP**
+
+---
