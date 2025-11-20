@@ -27,3 +27,31 @@ Ağ Katmanı aşağıdaki temel işlevleri yerine getirir:
 - Paket iletim hataları hakkında bilgi sağlar.
 
 ---
+
+## 🌐 2. IP Adresleri
+
+### **IPv4**
+- 32 bit uzunluğundadır.
+- Örnek: `192.168.1.10`
+- 4 oktetten oluşur (0–255 aralığı).
+
+**Yaygın IPv4 sınıfları:**
+| Sınıf | Aralık | Kullanım |
+|------|--------|----------|
+| A | 0.0.0.0 – 127.255.255.255 | Çok büyük ağlar |
+| B | 128.0.0.0 – 191.255.255.255 | Orta büyüklükte ağlar |
+| C | 192.0.0.0 – 223.255.255.255 | Küçük ağlar |
+
+---
+
+### **IPv6**
+- 128 bit uzunluğundadır.
+- Çok daha büyük adres kapasitesi sağlar.
+- Örnek: `2001:0db8:85a3:0000:0000:8a2e:0370:7334`
+
+**Avantajları:**
+- Daha büyük adres alanı  
+- Daha hızlı yönlendirme  
+- Otomatik adres yapılandırma (SLAAC)  
+
+---
