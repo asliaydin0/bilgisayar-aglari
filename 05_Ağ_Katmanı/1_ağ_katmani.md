@@ -73,3 +73,14 @@ Ağ Katmanı paketlerin hedefe **hangi yoldan gideceğini belirler**.
   - **BGP**
 
 ---
+
+## 📦 4. Ağ Katmanı Protokolleri
+
+| Protokol | Açıklama |
+|----------|----------|
+| **IP** | Paketlerin adreslenmesi ve yönlendirilmesini sağlar. |
+| **ICMP** | Hata raporlama (örneğin ping). |
+| **ARP*** | IPv4 için IP ↔ MAC çözümlemesi yapar (*Data Link katmanı ile ortak çalışır*). |
+| **NAT** | Özel IP → Genel IP dönüşümü yapar. |
+
+---
