@@ -17,7 +17,7 @@ Notlar, her hafta bir konuyu kapsayacak şekilde düzenlenmiş ve hem teorik hem
 | # | Konu Başlığı | Durum |
 |---|-----------------------------|---------|
 | 01 | [Giriş & Temel Kavramlar](./01_Temel_Kavramlar/1_giris_temel_kavramlar.md) | ✅ Yayında |
-| 02 | [OSI ve TCP/IP Modelleri](./02_osi_tcpip.md) | ✅ Yayında |
+| 02 | [OSI ve TCP/IP Modelleri](/02_OSI_TCP_IP/1_osi_tcpip.md) | ✅ Yayında |
 | 03 | [Fiziksel Katman](/03_Fiziksel_Katman/1_fiziksel_katman.md) | ✅ Yayında |
 | 04 | [Veri Bağlantı Katmanı](/04_Veri_Bağlantı_Katmanı/1_veri_baglanti_katmani.md) | ✅ Yayında |
 | 05 | Ağ Katmanı (IP, Subnet) | 🔒 Planlandı |
