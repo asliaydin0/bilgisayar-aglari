@@ -72,3 +72,90 @@ Ağ yöneticisi tarafından elle tanımlanan yönlendirme kurallarıdır.
 **Örnek komut (Linux):**
 ip route add 192.168.10.0/24 via 192.168.1.1
 
+
+---
+
+## **2) Dinamik Yönlendirme (Dynamic Routing)**
+
+Router'ların birbirleriyle iletişim kurarak en uygun rotayı otomatik olarak belirlemeleridir.
+
+### ✨ Özellikleri:
+- Router’lar sürekli bilgi alışverişi yapar  
+- Büyük ve karmaşık ağlarda kullanılır  
+- Otomatik güncellenir  
+- Yedek yolları kendisi bulur  
+
+### ✔️ Avantajları:
+- Ölçeklenebilir  
+- Arıza durumunda alternatif yol seçebilir  
+- Yönetimi kolaydır  
+
+### ❌ Dezavantajları:
+- Ek işlem yükü oluşturur  
+- Trafik artar  
+
+---
+
+# 📡 Dinamik Yönlendirme Protokolleri
+
+Dinamik yönlendirme protokolleri iki ana sınıfa ayrılır:
+
+---
+
+## **1) Distance Vector Protokolleri**
+
+Router sadece **komşularından** aldığı bilgiye göre karar verir.  
+Her hedefe olan “mesafe” metric üzerinden hesaplanır.
+
+### Örnek Protokoller:
+- **RIP (Routing Information Protocol)**  
+  - Metric: *Hop sayısı*  
+  - Max hop: 15  
+  - Küçük ağlarda kullanılır  
+
+### Özellikler:
+- Basit  
+- Yavaş yakınsama (convergence)  
+- Küçük yapılara uygun  
+
+---
+
+## **2) Link-State Protokolleri**
+
+Router ağdaki tüm topolojiyi bilir ve **kendi haritasını çıkarır**.
+
+### Örnek Protokoller:
+- **OSPF (Open Shortest Path First)**  
+- **IS-IS**
+
+### Özellikler:
+- Büyük kurumsal ağlarda kullanılır  
+- Daha hızlı  
+- Daha detaylı hesaplama yapar  
+- SPF (Dijkstra) algoritması kullanılır  
+
+---
+
+# 🔄 NAT (Network Address Translation)
+
+Router’ların sıkça kullandığı bir diğer yapı da **NAT**’tır.
+
+### NAT’ın Görevi:
+- Özel IP → Genel IP dönüşümü  
+- Yerel ağdaki birçok cihazın **tek bir IP ile internete çıkmasını** sağlar
+
+### Türleri:
+- **SNAT** (Source NAT)  
+- **DNAT** (Destination NAT)  
+- **PAT** (Port Address Translation)
+
+---
+
+# 📘 Özet
+
+- Router cihazları, ağlar arasında paket iletimini sağlar.  
+- Routing table, en uygun yolun belirlenmesinde kullanılır.  
+- Statik routing manuel; dinamik routing otomatik çalışır.  
+- Dinamik protokoller: RIP, OSPF, IS-IS  
+- NAT, özel IP’lerin internet erişimini sağlayan çeviri mekanizmasıdır.
+
