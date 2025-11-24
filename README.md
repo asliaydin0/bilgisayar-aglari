@@ -20,7 +20,7 @@ Notlar, her hafta bir konuyu kapsayacak şekilde düzenlenmiş ve hem teorik hem
 | 02 | [OSI ve TCP/IP Modelleri](/02_OSI_TCP_IP/1_osi_tcpip.md) | ✅ Yayında |
 | 03 | [Fiziksel Katman](/03_Fiziksel_Katman/1_fiziksel_katman.md) | ✅ Yayında |
 | 04 | [Veri Bağlantı Katmanı](/04_Veri_Bağlantı_Katmanı/1_veri_baglanti_katmani.md) | ✅ Yayında |
-| 05 | Ağ Katmanı (IP, Subnet) | 🔒 Planlandı |
+| 05 | [Ağ Katmanı (IP, Subnet)](/05_Ağ_Katmanı/1_ağ_katmani.md) | ✅ Yayında |
 | 06 | Yönlendirme & Routerlar | ⏳ Hazırlanıyor |
 | 07 | Taşıma Katmanı (TCP/UDP) | 🔒 Planlandı |
 | 08 | Uygulama Katmanı (HTTP, DNS) | 🔒 Planlandı |
