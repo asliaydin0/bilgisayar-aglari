@@ -46,4 +46,29 @@ Bu tablo, hangi IP bloğunun hangi arayüz üzerinden yönlendirileceğini belir
 | **Metric** | Yolun maliyet değeri | 20 |
 
 
+---
+
+# 🔸 Yönlendirme Türleri
+
+## **1) Statik Yönlendirme (Static Routing)**
+
+Ağ yöneticisi tarafından elle tanımlanan yönlendirme kurallarıdır.
+
+### ✏️ Özellikleri:
+- Manuel olarak eklenir ve silinir  
+- Güncellenmez, değişmez  
+- Küçük ağlarda kullanılır  
+- Güvenli ve basit yapıya sahiptir  
+
+### ✔️ Avantajları:
+- Kolay kontrol edilir  
+- Tahmin edilebilir  
+- Gereksiz trafik oluşturmaz  
+
+### ❌ Dezavantajları:
+- Büyük ağlarda yönetimi zordur  
+- Ağda arıza olursa rota değişmez  
+
+**Örnek komut (Linux):**
+
 
