@@ -45,7 +45,7 @@ Bu tablo, hangi IP bloğunun hangi arayüz üzerinden yönlendirileceğini belir
 | **Interface** | Paketin çıkacağı arayüz |
 | **Metric** | Yolun maliyet değeri |
 
-**Örnek tablo girişi:**
+**Örnek tablo girişi:**  
 Destination: 192.168.10.0  
 Mask: 255.255.255.0  
 Next Hop: 192.168.1.1  
