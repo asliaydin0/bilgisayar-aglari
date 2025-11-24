@@ -38,7 +38,7 @@ Her router, içinde bir **routing table** bulundurur.
 Bu tablo, hangi IP bloğunun hangi arayüz üzerinden yönlendirileceğini belirler.
 
 | Alan | Açıklama | Örnek tablo girişi|
-|------|----------|
+|------|----------|---------|
 | **Destination (Hedef Ağ)** | Nereye gidileceği | 192.168.10.0 |
 | **Subnet Mask** | Ağın büyüklüğü | 255.255.255.0 |
 | **Next Hop** | Bir sonraki router | 192.168.1.1 |
