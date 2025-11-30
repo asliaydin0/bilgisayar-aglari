@@ -61,6 +61,107 @@ TCP bağlantısı 3 adımda kurulur:
 2) **SYN + ACK →** Server isteği onaylar  
 3) **ACK →** Client doğrular ve bağlantı kurulur
 
-Client ---- SYN -----> Server
-Client <--- SYN/ACK --- Server
-Client ---- ACK -----> Server
+Client ---- SYN -----> Server  
+Client <--- SYN/ACK --- Server  
+Client ---- ACK -----> Server  
+
+
+---
+
+## 🔸 TCP Bağlantı Sonlandırma (4 Adım)
+
+1) FIN  
+2) ACK  
+3) FIN  
+4) ACK
+
+Toplamda 4 paketle bağlantı kapatılır.
+
+---
+
+## 📦 TCP Segment Yapısı (Kısaca)
+
+- Source Port  
+- Destination Port  
+- Sequence Number  
+- Acknowledgment Number  
+- Flags (SYN, ACK, FIN, RST…)  
+- Window Size  
+
+TCP, veriyi **segment** adı verilen parçalara böler.
+
+---
+
+# 🚀 UDP (User Datagram Protocol)
+
+UDP, **bağlantısız** ve **hızlı** bir iletim protokolüdür.
+
+## 🔹 UDP’nin Özellikleri:
+- Bağlantı kurmaz  
+- Paketlerin alınıp alınmadığını kontrol etmez  
+- Sıralama yoktur  
+- Hata kontrolü yok denecek kadar az  
+- Çok hızlıdır  
+- Canlı yayın veya gerçek zamanlı uygulamalar için idealdir
+
+---
+
+# 🔄 TCP vs UDP Karşılaştırma
+
+| Özellik | TCP | UDP |
+|---------|------|------|
+| Bağlantı | Bağlantılı | Bağlantısız |
+| Güvenilirlik | Yüksek | Düşük |
+| Sıralama | Var | Yok |
+| Yeniden gönderme | Var | Yok |
+| Hız | Orta / Yavaş | Çok hızlı |
+| Kullanım alanı | Web, FTP, Mail | Oyun, VoIP, Video stream |
+
+---
+
+# 🎮 Hangi Uygulama Hangisini Kullanır?
+
+### **TCP kullanan örnekler:**
+- Web siteleri (HTTP/HTTPS)
+- E-posta (SMTP, IMAP, POP3)
+- Dosya aktarımı (FTP)
+- SSH
+
+### **UDP kullanan örnekler:**
+- Online oyunlar
+- Canlı video yayınları
+- VoIP (sesli aramalar: WhatsApp, Zoom)
+- DNS sorguları
+
+---
+
+# 🔍 Akış Kontrolü (Flow Control)
+
+TCP, alıcı tarafın kapasitesine göre veri gönderimini ayarlar.  
+**Sliding Window** mekanizması kullanılır.
+
+Amaç:
+- Çok hızlı gönderim yapılmasını engellemek  
+- Tampon (buffer) taşmasını önlemek  
+
+---
+
+# 🔥 Tıkanıklık Kontrolü (Congestion Control)
+
+Ağ yoğunlaşırsa TCP yavaşlar, trafik açılınca hızlanır.  
+Algoritmalar:
+- Slow Start  
+- Congestion Avoidance  
+- Fast Recovery  
+
+---
+
+# 📘 Özet
+
+- Taşıma Katmanı, uçtan uca güvenilir veri iletiminden sorumludur.  
+- TCP güvenilir ve bağlantılı; UDP hızlı ve bağlantısızdır.  
+- Port numaraları uygulamaları ayırt etmek için kullanılır.  
+- TCP bağlantı kurarken 3-Way Handshake kullanır.  
+- UDP düşük gecikme isteyen uygulamalarda kullanılır.
+
+
