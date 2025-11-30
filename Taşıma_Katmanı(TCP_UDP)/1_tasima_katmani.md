@@ -61,4 +61,6 @@ TCP bağlantısı 3 adımda kurulur:
 2) **SYN + ACK →** Server isteği onaylar  
 3) **ACK →** Client doğrular ve bağlantı kurulur
 
-
+Client ---- SYN -----> Server
+Client <--- SYN/ACK --- Server
+Client ---- ACK -----> Server
