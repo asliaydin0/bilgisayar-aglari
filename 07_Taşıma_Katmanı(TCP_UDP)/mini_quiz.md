@@ -49,11 +49,6 @@ D) Basit paket yapısı
 
 ---
 
-> ✅ Cevap Anahtarı 
+> ✅ Cevap Anahtarı : 1.c, 2.d, 3.b, 4.c, 5.b
 
-1) **C**  
-2) **D**  
-3) **B**  
-4) **C**  
-5) **B**  
 
