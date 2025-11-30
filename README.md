@@ -21,9 +21,9 @@ Notlar, her hafta bir konuyu kapsayacak şekilde düzenlenmiş ve hem teorik hem
 | 03 | [Fiziksel Katman](/03_Fiziksel_Katman/1_fiziksel_katman.md) | ✅ Yayında |
 | 04 | [Veri Bağlantı Katmanı](/04_Veri_Bağlantı_Katmanı/1_veri_baglanti_katmani.md) | ✅ Yayında |
 | 05 | [Ağ Katmanı (IP, Subnet)](/05_Ağ_Katmanı/1_ağ_katmani.md) | ✅ Yayında |
-| 06 | Yönlendirme & Routerlar | ⏳ Hazırlanıyor |
+| 06 | [Yönlendirme & Routerlar](/06_Yönlendirme_ve_Routerlar/1_Routing_Routers.md) | ✅ Yayında |
 | 07 | Taşıma Katmanı (TCP/UDP) | 🔒 Planlandı |
-| 08 | Uygulama Katmanı (HTTP, DNS) | 🔒 Planlandı |
+| 08 | Uygulama Katmanı (HTTP, DNS) | ⏳ Hazırlanıyor |
 | 09 | Switching & VLAN | 🔒 Planlandı |
 | 10 | Kablosuz Ağlar | 🔒 Planlandı |
 | 11 | Ağ Güvenliği | 🔒 Planlandı |
