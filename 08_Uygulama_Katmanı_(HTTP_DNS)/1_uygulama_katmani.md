@@ -126,3 +126,23 @@ Cihaz açıldığında DHCP istemcisi IP ister:
 **DHCP Discover → Offer → Request → Ack**
 
 ---
+# 📌 6. SNMP (Simple Network Management Protocol)
+
+Ağ cihazlarının yönetimi ve izlenmesi için kullanılır.
+
+Kullanım alanı:
+- Router, switch, modem izleme
+- Bant genişliği ölçümü
+- Network monitoring sistemleri
+
+---
+
+# 🌍 Uygulama Katmanı Güvenliği
+
+- HTTPS ile şifreleme  
+- DNSSEC ile DNS kayıtlarının güvenliği  
+- SPF, DKIM, DMARC → E-posta güvenliği  
+- SFTP → Güvenli dosya aktarımı  
+
+---
+
