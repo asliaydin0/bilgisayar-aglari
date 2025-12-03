@@ -58,3 +58,23 @@ Aşağıda en yaygın kullanılan uygulama katmanı protokollerini bulabilirsin.
 
 ### Örnek:
 www.google.com → 142.251.40.78
+
+DNS olmasa sitelere IP adresleriyle bağlanmak zorunda kalırdık.
+
+### DNS Nasıl Çalışır?
+
+1. Kullanıcı alan adını yazar.  
+2. Cihaz DNS sunucusuna sorar.  
+3. DNS sunucusu ilgili IP adresini döner.  
+4. Tarayıcı IP’ye bağlanarak siteyi açar.
+
+### Yaygın DNS Kayıt Türleri
+
+| Kayıt | Açıklama |
+|------|----------|
+| **A** | Domain → IPv4 |
+| **AAAA** | Domain → IPv6 |
+| **MX** | E-posta sunucusu |
+| **CNAME** | Takma ad |
+| **NS** | Yetkili DNS sunucusu |
+
