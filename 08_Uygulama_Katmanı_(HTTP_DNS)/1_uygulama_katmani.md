@@ -57,3 +57,4 @@ Aşağıda en yaygın kullanılan uygulama katmanı protokollerini bulabilirsin.
 (Bir nevi “internetin telefon rehberi”)
 
 ### Örnek:
+www.google.com → 142.251.40.78
