@@ -98,4 +98,31 @@ E-posta trafiği üç ana protokolle yönetilir:
 - Varsayılan port: **143**
 
 ---
+# 📌 4. FTP (File Transfer Protocol)
 
+FTP, ağ üzerinden **dosya aktarımı** yapmak için kullanılan protokoldür.
+
+### Özellikleri:
+- Kimlik doğrulaması yapılabilir (kullanıcı adı/şifre)
+- Varsayılan port: **21**
+- Komut ve veri bağlantısı ayrı kanallardan yapılır
+
+### Alternatif:
+- **SFTP (SSH File Transfer Protocol)** → Daha güvenli
+
+---
+
+# 📌 5. DHCP (Dynamic Host Configuration Protocol)
+
+DHCP, ağdaki cihazlara otomatik olarak IP adresi atar.
+
+### Görevleri:
+- IP adresi atamak
+- Varsayılan ağ geçidi (gateway) atamak
+- DNS sunucularını atamak
+- Alt ağ maskesini atamak
+
+Cihaz açıldığında DHCP istemcisi IP ister:  
+**DHCP Discover → Offer → Request → Ack**
+
+---
