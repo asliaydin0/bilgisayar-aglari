@@ -38,3 +38,22 @@ Aşağıda en yaygın kullanılan uygulama katmanı protokollerini bulabilirsin.
 - Varsayılan port: **443**
 
 ---
+
+## 🔍 HTTP İstek Yöntemleri (HTTP Methods)
+
+| Yöntem | Açıklama |
+|--------|-----------|
+| **GET** | Veri talep eder (en yaygın) |
+| **POST** | Veri gönderir (form verileri vb.) |
+| **PUT** | Bir kaynağı günceller |
+| **DELETE** | Bir kaynağı siler |
+| **HEAD** | Sadece başlık bilgisi alır |
+
+---
+
+# 📌 2. DNS (Domain Name System)
+
+**DNS**, alan adlarını IP adreslerine çevirir.  
+(Bir nevi “internetin telefon rehberi”)
+
+### Örnek:
