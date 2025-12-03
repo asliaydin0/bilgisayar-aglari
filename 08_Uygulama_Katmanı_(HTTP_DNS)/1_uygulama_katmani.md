@@ -19,3 +19,22 @@ Bu katman:
 Kısacası **internet ile doğrudan etkileşime girdiğimiz katmandır**.
 
 ---
+# 🌐 Temel Uygulama Katmanı Protokolleri
+
+Aşağıda en yaygın kullanılan uygulama katmanı protokollerini bulabilirsin.
+
+---
+
+# 📌 1. HTTP / HTTPS (Web Protokolleri)
+
+### 🔸 HTTP (HyperText Transfer Protocol)
+- Web sayfalarının tarayıcıya iletilmesini sağlar.
+- **Stateless** bir protokoldür → Her istek bağımsızdır.
+- Varsayılan port: **80**
+
+### 🔸 HTTPS (Secure HTTP)
+- HTTP + TLS/SSL şifrelemesi içerir.
+- Güvenli iletişim sağlar.
+- Varsayılan port: **443**
+
+---
