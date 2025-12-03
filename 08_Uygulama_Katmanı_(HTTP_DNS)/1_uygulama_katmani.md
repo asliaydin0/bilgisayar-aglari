@@ -146,3 +146,14 @@ Kullanım alanı:
 
 ---
 
+# 📘 Özet
+
+- Uygulama katmanı, kullanıcıya en yakın katmandır ve protokoller burada çalışır.
+- HTTP/HTTPS web trafiğini yönetir.
+- DNS domain adlarını IP adreslerine dönüştürür.
+- SMTP, POP3 ve IMAP e-posta trafiğini yönetir.
+- FTP dosya aktarımı sağlar.
+- DHCP IP adresi dağıtır.
+- SNMP ağ yönetimi için kullanılır.
+
+Bu bölüm, internetin kullanıcı tarafında gördüğümüz tüm servislerin nasıl çalıştığını anlamamız için kritik öneme sahiptir.
