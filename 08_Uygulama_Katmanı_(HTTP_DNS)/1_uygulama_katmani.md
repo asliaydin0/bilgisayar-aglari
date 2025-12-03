@@ -59,7 +59,7 @@ Aşağıda en yaygın kullanılan uygulama katmanı protokollerini bulabilirsin.
 ### Örnek:
 www.google.com → 142.251.40.78
 
-DNS olmasa sitelere IP adresleriyle bağlanmak zorunda kalırdık.
+> DNS olmasa sitelere IP adresleriyle bağlanmak zorunda kalırdık.
 
 ### DNS Nasıl Çalışır?
 
@@ -77,4 +77,25 @@ DNS olmasa sitelere IP adresleriyle bağlanmak zorunda kalırdık.
 | **MX** | E-posta sunucusu |
 | **CNAME** | Takma ad |
 | **NS** | Yetkili DNS sunucusu |
+
+---
+
+# 📌 3. SMTP, POP3, IMAP (E-posta Protokolleri)
+
+E-posta trafiği üç ana protokolle yönetilir:
+
+### 📤 SMTP (Simple Mail Transfer Protocol)
+- E-posta **göndermek** için kullanılır.  
+- Varsayılan port: **25** (güvensiz), **587** (TLS)
+
+### 📥 POP3 (Post Office Protocol v3)
+- E-postayı **sunucudan indirir**, genelde cihazda saklar.
+- Varsayılan port: **110**
+
+### 🌐 IMAP (Internet Message Access Protocol)
+- E-postalar sunucuda kalır.
+- Cihazlar arasında **senkronizasyon** sağlar.
+- Varsayılan port: **143**
+
+---
 
