@@ -105,9 +105,20 @@ Bir VLAN yapısında portların iki ana tipi vardır:
 
 ### **Access Port**
 - Yalnızca **tek bir VLAN** taşır.
-- Bilgisayar, yazıcı gibi son cihazlar bağlanır.
+- Bilgisayar, yazıcı gibi son cihazlar bağlanır.  
 switchport mode access  
 switchport access vlan 10  
 
+### **Trunk Port**
+- Birden fazla VLAN taşır.
+- Switch–Switch veya Switch–Router bağlantılarında kullanılır.
+
+Trunk protokolleri:
+- **IEEE 802.1Q (en yaygın)**
+- ISL (Cisco)
+
+802.1Q, frame’e VLAN ID içeren bir **tag** ekler.
+
+---
 
 
