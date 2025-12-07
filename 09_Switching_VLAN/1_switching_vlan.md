@@ -80,3 +80,23 @@ VLAN, bir fiziksel switch üzerinde birden fazla **mantıksal ağ** oluşturulma
 
 **Amaç:**  
 Güvenlik artırmak, broadcast trafiğini azaltmak, mantıksal grup oluşturmak.
+
+### ✔ VLAN Ne Sağlar?
+- Broadcast domain’lerin ayrılması
+- Güvenlik
+- Esneklik (ofiste düzen değişse bile VLAN yapısı değişmez)
+
+---
+
+## 6. VLAN Türleri
+
+### **1. Port-Based VLAN (En yaygın)**
+Her switch portu bir VLAN’a atanır.
+
+### **2. MAC-Based VLAN**
+Cihazın MAC adresine göre VLAN atanır.
+
+### **3. Protocol-Based VLAN**
+Protokol türüne göre (IP, IPX vb.) VLAN belirlenir.
+
+---
