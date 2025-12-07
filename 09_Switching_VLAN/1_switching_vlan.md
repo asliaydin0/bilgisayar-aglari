@@ -32,3 +32,35 @@ Switch, gelen her frame üzerinde gönderici MAC adresini inceleyerek **MAC adre
 | 00:B1:8F:44:29:AA | Fa0/3 | 300 sn |
 
 Switch, bu tabloyu kullanarak yalnızca hedef cihazın bulunduğu porta frame gönderir.
+
+### 🎯 Öğrenme Mantığı
+- **Kaynak MAC → Tabloya eklenir**
+- **Hedef MAC → Tabloya bakılır**
+- Yoksa → "Unknown Unicast Flood" (her yere gönderir)
+
+---
+
+## 3. Switching Yöntemleri
+Switch’in frame’i işlemeden önce seçebileceği farklı yöntemler vardır:
+
+### **1. Store-and-Forward**
+- Frame tamamen alınır → Hata kontrolü (CRC) yapılır → Yönlendirilir.
+- **En güvenilir**, ancak en yavaştır.
+
+### **2. Cut-Through**
+- Hedef MAC adresi okunur okunmaz frame yönlendirilir.
+- Çok hızlı, fakat hatalı frame’ler de geçebilir.
+
+### **3. Fragment-Free**
+- Çoğu çarpışma ilk 64 byte’ta oluştuğu için switch ilk 64 byte'ı okur.
+- Hız ve güvenilirlik açısından ortada bir seçenektir.
+
+---
+
+## 4. Broadcast, Unicast ve Multicast
+### **Unicast**
+Tek bir hedef MAC adresine gönderilen frame.
+
+### **Broadcast**
+Tüm cihaza gönderilir. Adres:
+FF:FF:FF:FF:FF:FF
