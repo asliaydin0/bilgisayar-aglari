@@ -100,3 +100,15 @@ Cihazın MAC adresine göre VLAN atanır.
 Protokol türüne göre (IP, IPX vb.) VLAN belirlenir.
 
 ---
+## 7. Access ve Trunk Portlar
+Bir VLAN yapısında portların iki ana tipi vardır:
+
+### **Access Port**
+- Yalnızca **tek bir VLAN** taşır.
+- Bilgisayar, yazıcı gibi son cihazlar bağlanır.
+switchport mode access
+switchport access vlan 10
+
+yaml
+Kodu kopyala
+
