@@ -64,3 +64,19 @@ Tek bir hedef MAC adresine gönderilen frame.
 ### **Broadcast**
 Tüm cihaza gönderilir. Adres:
 FF:FF:FF:FF:FF:FF
+
+### **Multicast**
+Belirli bir cihaz grubuna gönderilir.
+
+---
+
+## 5. VLAN (Virtual Local Area Network)
+VLAN, bir fiziksel switch üzerinde birden fazla **mantıksal ağ** oluşturulmasını sağlar.
+
+Örnek:
+- VLAN 10 → Muhasebe  
+- VLAN 20 → Personel  
+- VLAN 30 → Yönetim  
+
+**Amaç:**  
+Güvenlik artırmak, broadcast trafiğini azaltmak, mantıksal grup oluşturmak.
