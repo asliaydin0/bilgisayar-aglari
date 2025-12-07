@@ -1,45 +1,44 @@
-# 6. Bölüm – Ağ Katmanı (Network Layer) Mini Quiz
+# 08. Bölüm – Uygulama Katmanı (HTTP, DNS) – Mini Quiz
 
 ## 📝 Mini Quiz – 5 Soru
 
-### **1. Aşağıdakilerden hangisi Ağ Katmanının temel görevlerinden biridir?**
-- A) MAC adresi atamak  
-- B) Paket yönlendirme (routing)  
-- C) Fiziksel sinyal üretmek  
-- D) Port numarası belirlemek  
+### **1. HTTP protokolü hangi iletişim modeline göre çalışır?**
+- A) İstemci–Sunucu  
+- B) Eşler Arası (P2P)  
+- C) Broadcast  
+- D) Multicast  
 
 ---
 
-### **2. Aşağıdaki protokollerden hangisi Ağ Katmanına aittir?**
-- A) TCP  
-- B) UDP  
-- C) IP  
-- D) HTTP  
+### **2. DNS’in temel görevi aşağıdakilerden hangisidir?**
+- A) Paketleri yönlendirmek  
+- B) Alan adlarını IP adreslerine çevirmek  
+- C) TCP bağlantısını kurmak  
+- D) Veri şifrelemek  
 
 ---
 
-### **3. Router hangi OSI katmanında çalışır?**
-- A) Uygulama Katmanı  
-- B) Veri Bağlantı Katmanı  
-- C) Fiziksel Katman  
-- D) Ağ Katmanı  
+### **3. Aşağıdaki HTTP yöntemlerinden hangisi veri güncellemek için kullanılır?**
+- A) GET  
+- B) POST  
+- C) PUT  
+- D) HEAD  
 
 ---
 
-### **4. IP paketlerinin hedefe ulaşması için kullanılan süreç aşağıdakilerden hangisidir?**
-- A) Multiplexing  
-- B) Routing  
-- C) Switching  
-- D) Segmenting  
+### **4. DNS çözümleme sürecinde istemcinin ilk olarak iletişim kurduğu sunucu türü hangisidir?**
+- A) Root DNS  
+- B) Yetkili DNS  
+- C) TLD DNS  
+- D) Local (Yerel) DNS Resolver  
 
 ---
 
-### **5. IP adresi ile ilgili aşağıdakilerden hangisi doğrudur?**
-- A) Sadece MAC adresine karşılık gelir  
-- B) Bir cihazın ağdaki mantıksal adresidir  
-- C) Fiziksel donanım adresidir  
-- D) Uygulama katmanı tarafından atanır  
+### **5. Aşağıdakilerden hangisi HTTP’nin dezavantajlarından biridir?**
+- A) Durumsal (stateful) olması  
+- B) Varsayılan olarak şifreleme yapmaması  
+- C) DNS çözümlemesi gerektirmemesi  
+- D) TCP yerine UDP kullanması  
 
 ---
-5) B  
 
