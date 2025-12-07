@@ -120,5 +120,24 @@ Trunk protokolleri:
 802.1Q, frame’e VLAN ID içeren bir **tag** ekler.
 
 ---
+## 8. VLAN’lar Arası İletişim (Inter-VLAN Routing)
+Farklı VLAN'lardaki cihazlar normalde **birbirine erişemez**.  
+Erişim sağlanması için:
 
+### ✓ Router-on-a-stick yöntemi  
+veya  
+### ✓ Layer 3 Switch
+
+kullanılır.
+
+---
+
+## 9. Özet
+- Switch, MAC tablosu ile yönlendirme yapar.  
+- VLAN, broadcast domain’leri ayırır.  
+- Access port → tek VLAN  
+- Trunk port → çoklu VLAN  
+- Inter-VLAN iletişim için yönlendirme gerekir.
+
+---
 
