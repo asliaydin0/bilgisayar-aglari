@@ -27,3 +27,28 @@ Kablosuz ağlar genellikle **IEEE 802.11** standartları temel alınarak çalı�
 | **802.11ax (Wi-Fi 6)** | 2.4/5 GHz | 10 Gbps'a kadar | Yoğun ortamlarda çok verimli |
 
 ---
+# 🔹 3. Erişim Noktası (Access Point - AP)
+
+**Access Point**, kablosuz cihazların ağa bağlanmasını sağlayan cihazdır.
+
+Görevleri:
+- Kablosuz istemcileri ağa bağlamak
+- Sinyal iletimini yönetmek
+- Kablosuz trafiği kablolu ağa aktarmak
+
+AP'ler genellikle switch'e veya router'a bağlıdır.
+
+---
+
+# 🔹 4. Kablosuz Güvenlik Yöntemleri
+
+Kablosuz ağlar, kablolu ağlara göre daha savunmasızdır. Bu nedenle şifreleme çok önemlidir.
+
+| Güvenlik Türü | Güç | Açıklama |
+|--------------|------|----------|
+| **WEP** | ❌ Zayıf | Artık güvenli değil |
+| **WPA** | ⚠️ Orta | Eski ama kullanılabilir |
+| **WPA2** | ✔️ Güçlü | Günümüzde en yaygını |
+| **WPA3** | ✔️✔️ Çok güçlü | En modern güvenlik |
+
+---
