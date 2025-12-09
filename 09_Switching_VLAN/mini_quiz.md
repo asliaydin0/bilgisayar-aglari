@@ -44,3 +44,9 @@ D) Cut-through switching
 
 ---
 
+# ✅ Cevap Anahtarı
+1) B  
+2) C  
+3) C  
+4) C  
+5) C 
