@@ -24,8 +24,8 @@ Notlar, her hafta bir konuyu kapsayacak şekilde düzenlenmiş ve hem teorik hem
 | 06 | [Yönlendirme & Routerlar](/06_Yönlendirme_ve_Routerlar/1_Routing_Routers.md) | ✅ Yayında |
 | 07 | [Taşıma Katmanı (TCP/UDP)](07_Taşıma_Katmanı(TCP_UDP)/1_tasima_katmani.md) | ✅ Yayında |
 | 08 | [Uygulama Katmanı (HTTP, DNS)](08_Uygulama_Katmanı_(HTTP_DNS)/1_uygulama_katmani.md) | ✅ Yayında |
-| 09 | Switching & VLAN | ⏳ Hazırlanıyor |
-| 10 | Kablosuz Ağlar | 🔒 Planlandı |
+| 09 | [Switching & VLAN](09_Switching_VLAN/1_switching_vlan.md) | ✅ Yayında |
+| 10 | Kablosuz Ağlar | ⏳ Hazırlanıyor |
 | 11 | Ağ Güvenliği | 🔒 Planlandı |
 | 12 | Ağ Yönetimi & SDN | 🔒 Planlandı |
 
