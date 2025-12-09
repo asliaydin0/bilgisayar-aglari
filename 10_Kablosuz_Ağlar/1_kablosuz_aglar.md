@@ -52,3 +52,16 @@ Kablosuz ağlar, kablolu ağlara göre daha savunmasızdır. Bu nedenle şifrele
 | **WPA3** | ✔️✔️ Çok güçlü | En modern güvenlik |
 
 ---
+# 🔹 5. Frekans Bantları: 2.4 GHz vs 5 GHz
+
+### **2.4 GHz**
+- Daha geniş kapsama alanı
+- Duvarları daha iyi aşar
+- Ancak daha fazla **parazit** ve **yoğunluk**
+
+### **5 GHz**
+- Daha yüksek hız
+- Daha az parazit
+- Kapsama alanı daha düşük
+
+---
