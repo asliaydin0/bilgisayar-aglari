@@ -65,3 +65,21 @@ Kablosuz ağlar, kablolu ağlara göre daha savunmasızdır. Bu nedenle şifrele
 - Kapsama alanı daha düşük
 
 ---
+# 🔹 6. SSID (Service Set Identifier)
+
+Kablosuz ağın görünen adıdır.  
+Bir AP birden fazla SSID yayınlayabilir.
+
+---
+
+# 🔹 7. Kablosuz Ağ Mimari Modları
+
+### **1. Infrastructure Mode**
+- En yaygın yapı
+- Tüm cihazlar Access Point üzerinden haberleşir
+
+### **2. Ad-hoc Mode**
+- Cihazlar birbirine **doğrudan** bağlanır
+- AP kullanılmaz
+
+---
