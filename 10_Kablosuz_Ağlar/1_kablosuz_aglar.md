@@ -100,3 +100,25 @@ Bir AP birden fazla SSID yayınlayabilir.
 - **Kanal çakışması**
 - **Yoğunluk (overloading)**
 - **Yanlış konumlandırılmış AP**
+---
+
+# 🔹 10. Kablosuz Kanal Seçimi
+
+2.4 GHz için en yaygın kanal tercihleri:
+
+- **1**
+- **6**
+- **11**
+
+Bu kanallar çakışmaz → daha stabil bağlantı sağlar.
+
+---
+
+# 📘 Özet
+
+- Kablosuz ağlar 802.11 standartlarına dayanır.  
+- Access Point cihazları kablosuz istemcileri ağa bağlar.  
+- Wi-Fi 6 (802.11ax) günümüzde en hızlı teknolojidir.  
+- Güvenlik açısından **WPA2 / WPA3** tercih edilmelidir.  
+- 2.4 GHz geniş kapsama alanı, 5 GHz daha yüksek hız sunar.  
+- Kanalların doğru seçilmesi performansı ciddi şekilde artırır.
