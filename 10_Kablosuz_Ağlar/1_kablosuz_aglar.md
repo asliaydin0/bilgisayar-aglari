@@ -83,3 +83,20 @@ Bir AP birden fazla SSID yayınlayabilir.
 - AP kullanılmaz
 
 ---
+# 🔹 8. Anten Türleri
+
+| Anten Türü | Özellik |
+|------------|----------|
+| **Omni-directional** | 360° yayın yapar, router'larda yaygın |
+| **Directional** | Belirli bir yöne yoğun sinyal gönderir |
+| **Yagi / Parabolic** | Uzun mesafeli bağlantılar için |
+
+---
+
+# 🔹 9. Kablosuz Ağlarda Karşılaşılan Sorunlar
+
+- **Sinyal zayıflığı**
+- **Interference (parazit)**: Mikrodalga, Bluetooth, radar vb.
+- **Kanal çakışması**
+- **Yoğunluk (overloading)**
+- **Yanlış konumlandırılmış AP**
