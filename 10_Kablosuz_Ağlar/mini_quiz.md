@@ -18,3 +18,28 @@ B) Parazite karşı daha duyarlıdır
 C) **Daha yüksek hız sunar**  
 D) Duvarları daha iyi aşar
 
+---
+
+## **3. Kablosuz ağın görünen adına ne denir?**
+A) MAC  
+B) BSSID  
+C) Channel  
+D) **SSID**
+
+---
+
+## **4. Aşağıdaki güvenlik yöntemlerinden hangisi artık güvenli kabul edilmemektedir?**
+A) WPA  
+B) **WEP**  
+C) WPA2  
+D) WPA3
+
+---
+
+## **5. Infrastructure Mode için aşağıdakilerden hangisi doğrudur?**
+A) Cihazlar doğrudan birbirine bağlanır  
+B) **Tüm cihazlar bir Access Point üzerinden haberleşir**  
+C) AP kullanılmaz  
+D) Sadece yönlendiriciler arasında çalışır
+
+---
