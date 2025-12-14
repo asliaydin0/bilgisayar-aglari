@@ -68,3 +68,32 @@ Firewall genellikle **Ağ Katmanı** ve **Taşıma Katmanı** üzerinde çalış
 - Trafiği aktif olarak kesebilir
 
 ---
+## 5. VPN (Virtual Private Network)
+
+VPN, internet üzerinden **şifreli bir tünel** oluşturarak güvenli iletişim sağlar.
+
+### VPN Ne Sağlar?
+- Veri gizliliği
+- Güvenli uzaktan erişim
+- IP gizleme
+
+### Yaygın VPN Protokolleri:
+- IPsec
+- SSL / TLS
+- L2TP
+- OpenVPN
+
+---
+
+## 6. Kimlik Doğrulama ve Yetkilendirme
+
+### 🔐 Kimlik Doğrulama (Authentication)
+Kullanıcının kim olduğunu doğrular.
+- Parola
+- SMS / OTP
+- Biyometrik veriler
+
+### 🧾 Yetkilendirme (Authorization)
+Kullanıcının ne yapabileceğini belirler.
+
+---
