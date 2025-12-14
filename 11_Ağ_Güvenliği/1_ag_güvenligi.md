@@ -97,3 +97,29 @@ Kullanıcının kim olduğunu doğrular.
 Kullanıcının ne yapabileceğini belirler.
 
 ---
+## 7. Şifreleme (Encryption)
+
+Verilerin okunamaz hale getirilmesidir.
+
+### Şifreleme Türleri:
+- **Simetrik Şifreleme** (AES)
+- **Asimetrik Şifreleme** (RSA)
+
+### Nerelerde Kullanılır?
+- HTTPS
+- VPN
+- E-posta güvenliği
+- Wi-Fi güvenliği
+
+---
+
+## 8. Ağ Güvenliği Önlemleri
+
+- Güçlü parola politikaları
+- Firewall yapılandırması
+- Güncel yazılım kullanımı
+- IDS/IPS sistemleri
+- Segmentasyon (VLAN)
+- Loglama ve izleme
+
+---
