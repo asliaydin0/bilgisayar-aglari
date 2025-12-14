@@ -9,3 +9,36 @@ Bu bölümde;
 öğreneceksin.
 
 ---
+## 1. Ağ Güvenliği Nedir?
+
+**Ağ güvenliği**, ağ üzerindeki veri, cihaz ve servislerin yetkisiz erişimlere, saldırılara ve veri kayıplarına karşı korunmasıdır.
+
+### Ağ güvenliğinin temel hedefleri:
+- **Gizlilik (Confidentiality)**
+- **Bütünlük (Integrity)**
+- **Erişilebilirlik (Availability)**
+
+Bu üçlüye **CIA Triad** adı verilir.
+
+---
+
+## 2. Temel Güvenlik Tehditleri
+
+### 🔴 1. Yetkisiz Erişim
+- Sisteme izinsiz giriş
+- Zayıf parola kullanımı
+
+### 🔴 2. Malware (Kötü Amaçlı Yazılım)
+- Virüs
+- Worm
+- Trojan
+- Ransomware
+
+### 🔴 3. DoS / DDoS Saldırıları
+- Sistemi aşırı trafikle devre dışı bırakma
+- Hizmet kesintisine yol açar
+
+### 🔴 4. Man-in-the-Middle (MitM)
+- İki taraf arasındaki iletişimi gizlice dinleme veya değiştirme
+
+---
