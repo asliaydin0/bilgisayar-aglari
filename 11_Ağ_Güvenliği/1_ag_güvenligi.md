@@ -42,3 +42,15 @@ Bu üçlüye **CIA Triad** adı verilir.
 - İki taraf arasındaki iletişimi gizlice dinleme veya değiştirme
 
 ---
+## 3. Firewall (Güvenlik Duvarı)
+
+**Firewall**, gelen ve giden ağ trafiğini belirlenen kurallara göre kontrol eden güvenlik sistemidir.
+
+### Firewall Türleri:
+- **Packet Filtering Firewall**
+- **Stateful Firewall**
+- **Application Layer Firewall**
+- **Next-Generation Firewall (NGFW)**
+
+Firewall genellikle **Ağ Katmanı** ve **Taşıma Katmanı** üzerinde çalışır.
+
