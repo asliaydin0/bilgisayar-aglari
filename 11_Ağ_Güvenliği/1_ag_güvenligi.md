@@ -123,3 +123,21 @@ Verilerin okunamaz hale getirilmesidir.
 - Loglama ve izleme
 
 ---
+## 9. Kablosuz Ağ Güvenliği (Hatırlatma)
+
+- WPA2 / WPA3 kullanımı
+- SSID gizleme (tek başına yeterli değildir)
+- MAC filtreleme
+- Güçlü Wi-Fi parolaları
+
+---
+
+## 10. Özet
+
+- Ağ güvenliği, veriyi ve ağı korumayı amaçlar.
+- CIA Triad: Gizlilik, Bütünlük, Erişilebilirlik
+- Firewall, IDS/IPS ve VPN temel güvenlik bileşenleridir.
+- Şifreleme, güvenli iletişimin temelidir.
+- Güvenlik **tek bir araçla değil**, katmanlı yaklaşımla sağlanır.
+
+---
