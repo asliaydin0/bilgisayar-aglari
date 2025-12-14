@@ -54,3 +54,17 @@ Bu üçlüye **CIA Triad** adı verilir.
 
 Firewall genellikle **Ağ Katmanı** ve **Taşıma Katmanı** üzerinde çalışır.
 
+---
+
+## 4. IDS & IPS
+
+### 🔍 IDS (Intrusion Detection System)
+- Saldırıları **tespit eder**
+- Loglar ve uyarı verir
+- Müdahale etmez
+
+### 🛡️ IPS (Intrusion Prevention System)
+- Saldırıları **tespit eder ve engeller**
+- Trafiği aktif olarak kesebilir
+
+---
