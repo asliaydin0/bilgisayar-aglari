@@ -41,3 +41,11 @@ B) Paketleri şifrelemek
 C) **Ağ trafiğini kurallara göre kontrol etmek**  
 D) MAC adresi üretmek  
 
+
+# ✅ Cevap Anahtarı
+1) D  
+2) D  
+3) C  
+4) C  
+5) C  
+
