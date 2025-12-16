@@ -20,6 +20,21 @@ D) Switch
 
 ---
 
+## **4. IDS ve IPS arasındaki temel fark nedir?**
+A) IDS saldırıları engeller, IPS sadece izler  
+B) IDS ve IPS aynı görevi yapar  
+C) **IDS saldırıyı tespit eder, IPS tespit edip engeller**  
+D) IPS log tutmaz  
+
+---
+
+## **5. VPN’in temel amacı aşağıdakilerden hangisidir?**
+A) İnternet hızını artırmak  
+B) IP adresi dağıtmak  
+C) **Güvenli ve şifreli iletişim sağlamak**  
+D) DNS çözümlemesi yapmak  
+
+---
 ## **3. Firewall’un temel görevi nedir?**
 A) IP adresi atamak  
 B) Paketleri şifrelemek  
