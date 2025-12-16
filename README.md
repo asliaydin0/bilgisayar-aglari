@@ -26,8 +26,8 @@ Notlar, her hafta bir konuyu kapsayacak şekilde düzenlenmiş ve hem teorik hem
 | 08 | [Uygulama Katmanı (HTTP, DNS)](08_Uygulama_Katmanı_(HTTP_DNS)/1_uygulama_katmani.md) | ✅ Yayında |
 | 09 | [Switching & VLAN](09_Switching_VLAN/1_switching_vlan.md) | ✅ Yayında |
 | 10 | [Kablosuz Ağlar](10_Kablosuz_Ağlar/1_kablosuz_aglar.md) | ✅ Yayında |
-| 11 | Ağ Güvenliği | ⏳ Hazırlanıyor |
-| 12 | Ağ Yönetimi & SDN | 🔒 Planlandı |
+| 11 | [Ağ Güvenliği](11_Ağ_Güvenliği/1_ag_guvenligi.md) | ✅ Yayında |
+| 12 | Ağ Yönetimi & SDN | ⏳ Hazırlanıyor |
 
 > 📌 Her bölüm, özet + açıklama + örnek + laboratuvar + mini quiz içerecek şekilde yapılandırılacaktır.
 
