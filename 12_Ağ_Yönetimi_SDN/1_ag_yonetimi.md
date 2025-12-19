@@ -20,3 +20,25 @@ Amaç:
 - Kaynakları verimli kullanmak
 
 ---
+## 2. Ağ Yönetiminin Temel Fonksiyonları (FCAPS)
+
+Ağ yönetimi genellikle **FCAPS modeli** ile açıklanır:
+
+| Harf | Açılım | Açıklama |
+|-----|--------|----------|
+| **F** | Fault | Hata tespiti ve çözümü |
+| **C** | Configuration | Ağ cihazlarının yapılandırılması |
+| **A** | Accounting | Kaynak kullanımının takibi |
+| **P** | Performance | Performans izleme |
+| **S** | Security | Güvenlik yönetimi |
+
+---
+
+## 3. SNMP (Simple Network Management Protocol)
+
+**SNMP**, ağ cihazlarını izlemek ve yönetmek için kullanılan bir protokoldür.
+
+### SNMP Bileşenleri:
+- **Manager:** Yönetimi yapan sistem
+- **Agent:** Cihaz üzerinde çalışan yazılım
+- **MIB:** Yönetim bilgilerini içeren veritabanı
