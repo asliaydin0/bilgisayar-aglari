@@ -9,3 +9,14 @@ Bu bölümde;
 öğreneceksin.
 
 ---
+## 1. Ağ Yönetimi Nedir?
+
+**Ağ yönetimi**, ağ altyapısının izlenmesi, yapılandırılması, performansının artırılması ve sorunların tespit edilmesi sürecidir.
+
+Amaç:
+- Ağın **sürekli çalışır** durumda olması
+- Performans sorunlarını erken tespit etmek
+- Güvenliği sağlamak
+- Kaynakları verimli kullanmak
+
+---
