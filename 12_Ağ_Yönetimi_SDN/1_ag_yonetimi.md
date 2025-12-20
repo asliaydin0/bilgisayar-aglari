@@ -65,3 +65,28 @@ tespit edilebilir.
 - **Syslog**
 
 ---
+## 5. Geleneksel Ağ Mimarisi
+
+Geleneksel ağlarda:
+- **Control Plane** (kontrol)  
+- **Data Plane** (veri iletimi)  
+
+aynı cihaz (router/switch) üzerindedir.
+
+### Dezavantajları:
+- Merkezi yönetim zordur
+- Ölçeklenebilirlik düşüktür
+- Yönetim karmaşıktır
+
+---
+
+## 6. SDN (Software Defined Networking) Nedir?
+
+**SDN**, ağ kontrolünün donanımdan ayrılarak **yazılım tabanlı** olarak merkezi bir şekilde yönetilmesini sağlar.
+
+### SDN’in Temel Mantığı:
+- Control Plane → **SDN Controller**
+- Data Plane → Switch / Router
+- Yönetim → Yazılım üzerinden
+
+---
