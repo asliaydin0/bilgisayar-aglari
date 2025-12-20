@@ -136,3 +136,12 @@ aynı cihaz (router/switch) üzerindedir.
 | Otomasyon | Zor | Kolay |
 
 ---
+## 11. Özet
+
+- Ağ yönetimi, ağın sağlıklı çalışmasını sağlar.
+- FCAPS modeli ağ yönetiminin temelini oluşturur.
+- SNMP, ağ izleme ve yönetim için kullanılır.
+- SDN, ağ kontrolünü yazılıma taşır.
+- Modern ve büyük ölçekli ağlar için SDN kritik öneme sahiptir.
+
+---
