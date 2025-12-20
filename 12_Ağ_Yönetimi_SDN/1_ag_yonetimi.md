@@ -42,3 +42,10 @@ Ağ yönetimi genellikle **FCAPS modeli** ile açıklanır:
 - **Manager:** Yönetimi yapan sistem
 - **Agent:** Cihaz üzerinde çalışan yazılım
 - **MIB:** Yönetim bilgilerini içeren veritabanı
+
+### SNMP Sürümleri:
+- SNMPv1 → Temel, güvensiz  
+- SNMPv2c → Gelişmiş, hâlâ sınırlı güvenlik  
+- SNMPv3 → **Şifreleme ve kimlik doğrulama içerir**
+
+---
