@@ -117,3 +117,12 @@ aynı cihaz (router/switch) üzerindedir.
 - Bulut ve veri merkezleri için ideal yapı
 
 ---
+## 9. SDN Kullanım Alanları
+
+- Veri merkezleri
+- Bulut altyapıları
+- Büyük kurumsal ağlar
+- Otomatik ağ yönetimi
+- Network automation & orchestration
+
+---
