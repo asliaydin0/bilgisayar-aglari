@@ -90,3 +90,30 @@ aynı cihaz (router/switch) üzerindedir.
 - Yönetim → Yazılım üzerinden
 
 ---
+## 7. SDN Bileşenleri
+
+### 🧠 SDN Controller
+- Ağın beyni
+- Tüm ağ cihazlarını merkezi olarak yönetir
+
+### 🔀 Forwarding Devices
+- Switch ve router’lar
+- Controller’dan gelen komutları uygular
+
+### 🔗 Southbound & Northbound API
+
+- **Southbound API:** Controller ↔ Ağ cihazları  
+  - Örnek: OpenFlow
+- **Northbound API:** Controller ↔ Uygulamalar  
+
+---
+
+## 8. SDN’in Avantajları
+
+- Merkezi yönetim
+- Kolay yapılandırma
+- Hızlı müdahale
+- Otomasyon desteği
+- Bulut ve veri merkezleri için ideal yapı
+
+---
