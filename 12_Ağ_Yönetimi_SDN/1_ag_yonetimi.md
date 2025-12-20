@@ -49,3 +49,19 @@ Ağ yönetimi genellikle **FCAPS modeli** ile açıklanır:
 - SNMPv3 → **Şifreleme ve kimlik doğrulama içerir**
 
 ---
+## 4. Ağ İzleme ve Loglama
+
+Ağ izleme sayesinde:
+- Trafik yoğunluğu
+- Paket kaybı
+- Gecikme (latency)
+- Hatalar
+
+tespit edilebilir.
+
+### Yaygın Teknolojiler:
+- **NetFlow**
+- **sFlow**
+- **Syslog**
+
+---
