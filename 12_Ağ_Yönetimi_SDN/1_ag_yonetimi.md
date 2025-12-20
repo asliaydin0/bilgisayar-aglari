@@ -126,3 +126,13 @@ aynı cihaz (router/switch) üzerindedir.
 - Network automation & orchestration
 
 ---
+## 10. Geleneksel Ağ vs SDN
+
+| Özellik | Geleneksel Ağ | SDN |
+|-------|---------------|-----|
+| Yönetim | Dağıtık | Merkezi |
+| Kontrol | Cihaz bazlı | Yazılım tabanlı |
+| Esneklik | Düşük | Yüksek |
+| Otomasyon | Zor | Kolay |
+
+---
