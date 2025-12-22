@@ -31,6 +31,12 @@ C) **SDN Controller üzerinde**
 D) Veri merkezinde  
 ---
 
+## **5. Aşağıdakilerden hangisi SDN’in avantajlarından biri değildir?**
+A) Merkezi yönetim  
+B) Otomasyon kolaylığı  
+C) Esneklik  
+D) **Daha karmaşık manuel yapılandırma**
+---
 
 ## ✅ Cevap Anahtarı
 1) C  
@@ -39,8 +45,4 @@ D) Veri merkezinde
 4) C  
 5) D  
 
-## **5. Aşağıdakilerden hangisi SDN’in avantajlarından biri değildir?**
-A) Merkezi yönetim  
-B) Otomasyon kolaylığı  
-C) Esneklik  
-D) **Daha karmaşık manuel yapılandırma**
+
