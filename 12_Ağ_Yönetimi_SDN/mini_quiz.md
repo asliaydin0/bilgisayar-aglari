@@ -31,6 +31,14 @@ C) **SDN Controller üzerinde**
 D) Veri merkezinde  
 ---
 
+
+## ✅ Cevap Anahtarı
+1) C  
+2) C  
+3) C  
+4) C  
+5) D  
+
 ## **5. Aşağıdakilerden hangisi SDN’in avantajlarından biri değildir?**
 A) Merkezi yönetim  
 B) Otomasyon kolaylığı  
