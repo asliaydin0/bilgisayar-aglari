@@ -29,3 +29,10 @@ A) Switch üzerinde
 B) Router üzerinde  
 C) **SDN Controller üzerinde**  
 D) Veri merkezinde  
+---
+
+## **5. Aşağıdakilerden hangisi SDN’in avantajlarından biri değildir?**
+A) Merkezi yönetim  
+B) Otomasyon kolaylığı  
+C) Esneklik  
+D) **Daha karmaşık manuel yapılandırma**
