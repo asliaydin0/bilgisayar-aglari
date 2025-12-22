@@ -8,3 +8,10 @@ A) Protection
 B) Policy  
 C) **Performance**  
 D) Provisioning  
+---
+
+## **2. SNMP mimarisinde ağ cihazları üzerinde çalışan yazılıma ne ad verilir?**
+A) Manager  
+B) Controller  
+C) **Agent**  
+D) MIB  
