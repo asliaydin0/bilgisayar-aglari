@@ -22,3 +22,10 @@ A) Dağıtık kontrol yapısı
 B) Donanım tabanlı yönetim  
 C) **Merkezi kontrol ve yazılım tabanlı yönetim**  
 D) Manuel konfigürasyon zorunluluğu  
+---
+
+## **4. SDN mimarisinde kontrol düzlemi (Control Plane) nerede bulunur?**
+A) Switch üzerinde  
+B) Router üzerinde  
+C) **SDN Controller üzerinde**  
+D) Veri merkezinde  
