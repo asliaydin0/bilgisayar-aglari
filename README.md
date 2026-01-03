@@ -29,7 +29,7 @@ Notlar, her hafta bir konuyu kapsayacak şekilde düzenlenmiş ve hem teorik hem
 | 11 | [Ağ Güvenliği](11_Ağ_Güvenliği/1_ag_guvenligi.md) | ✅ Yayında |
 | 12 | [Ağ Yönetimi & SDN](12_Ağ_Yönetimi_SDN/1_ag_yonetimi.md) | ✅ Yayında |
 
-> 📌 Her bölüm, özet + açıklama + örnek + laboratuvar + mini quiz içerecek şekilde yapılandırılacaktır.
+> 📌 Her bölüm, özet + açıklama + mini quiz içerecek şekilde yapılandırılmıştır.
 
 ---
 ## ✨ Yazar
